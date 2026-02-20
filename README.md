@@ -27,3 +27,8 @@ A small browser extension (Chrome) for quickly filling forms and testing form-re
 - `scripts/resumeUploader.js` — example script for handling/resuming uploads
 - `examples/test-form.html` — local HTML page to test form-filling behavior
 - `icons/` — extension icons
+
+## Development
+- Edit files directly and reload the extension from the extensions page to see changes.
+- There is no build step required unless you add one; keep source files in this folder for Load Unpacked testing.
+
