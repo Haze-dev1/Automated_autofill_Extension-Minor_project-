@@ -33,6 +33,5 @@ A small browser extension (Chrome) for quickly filling forms and testing form-re
 - There is no build step required unless you add one; keep source files in this folder for Load Unpacked testing.
 
 Co-authored-by:
-
 1. @rashcasm
 2. @haze-dev1
